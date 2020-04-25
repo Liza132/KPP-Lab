@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><powerTools>
+    <tool model="Stark ID 500" handy="1" origin="China" material="Steel"><specifications>
+            <energy>low</energy>
+            <power>500</power>
+            <autonomous>true</autonomous>
+        </specifications></tool>
+    <tool model="Bosch Professional GBM 6 RE" handy="1" origin="Malaysia" material="Iron"><specifications>
+            <energy>low</energy>
+            <power>350</power>
+        </specifications></tool>
+    <tool model="Daewoo DAF 2000" handy="2" origin="South Korea" material="Gold"><specifications>
+            <energy>low</energy>
+            <autonomous>false</autonomous>
+        </specifications></tool>
+</powerTools>

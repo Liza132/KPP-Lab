@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<powerTools>
+    <tool>
+        <model>Stark ID 500</model>
+        <handy>1</handy>
+        <origin>China</origin>
+        <specifications>
+            <energy>low</energy>
+            <power>500</power>
+            <autonomous>true</autonomous>
+        </specifications>
+        <material>Steel</material>
+    </tool>
+    <tool>
+        <model>Bosch Professional GBM 6 RE</model>
+        <handy>1</handy>
+        <origin>Malaysia</origin>
+        <specifications>
+            <energy>low</energy>
+            <power>350</power>
+        </specifications>
+        <material>Iron</material>
+    </tool>
+    <tool>
+        <model>Daewoo DAF 2000</model>
+        <handy>2</handy>
+        <origin>South Korea</origin>
+        <specifications>
+            <energy>low</energy>
+            <autonomous>false</autonomous>
+        </specifications>
+        <material>Gold</material>
+    </tool>
+</powerTools>
